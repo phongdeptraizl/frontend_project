@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#d0839e",
           onClose: () => {
-            window.location = "https://www.facebook.com/neunfongtrash";
+            window.location = "https://www.facebook.com/nensume";
           },
         });
       }
